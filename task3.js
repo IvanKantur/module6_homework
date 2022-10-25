@@ -1,3 +1,4 @@
+//Задание №3
 function firstNumber(a){
     return function multiple(b){
         return a * b
